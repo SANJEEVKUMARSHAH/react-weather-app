@@ -1,0 +1,10 @@
+.weatherTitle{
+text-align: center;
+}
+
+
+
+.weathercard{
+    display: flex;
+    justify-content: center;
+}
